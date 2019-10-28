@@ -1,4 +1,4 @@
-package uk.ac.cam.cl.furthergfx.crsid.tick;
+package uk.ac.cam.cl.furthergfx.sgg29.tick;
 
 import static org.lwjgl.opengl.GL11.GL_NO_ERROR;
 import static org.lwjgl.opengl.GL11.glGetError;

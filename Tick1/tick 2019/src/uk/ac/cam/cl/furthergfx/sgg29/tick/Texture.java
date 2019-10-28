@@ -1,4 +1,4 @@
-package uk.ac.cam.cl.furthergfx.crsid.tick;
+package uk.ac.cam.cl.furthergfx.sgg29.tick;
 
 import java.awt.image.BufferedImage;
 import java.io.File;
