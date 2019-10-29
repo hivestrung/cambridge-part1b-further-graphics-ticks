@@ -115,6 +115,7 @@ public class TickCanvas {
     GL30.glBindVertexArray(vao);
     GL11.glDrawArrays(GL11.GL_TRIANGLES, 0 /* start */, 6 /* num vertices */);
     Display.update();
+    Display.sync(25);
   }
 
   protected void onMouseScroll(double delta) {
